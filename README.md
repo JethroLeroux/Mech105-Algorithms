@@ -1,5 +1,5 @@
 # Mech105-Algorithms
-All the algorithms I created using MATLAB for my Mech 105 class at Colorado State University
+All the algorithms I created using MATLAB for my Mech 105 class at Colorado State University during Spring 2018
 ## Algorithm 1: False Position Algorithm
 this False Position algorithm returns the estimate of the root of a user input function using the False Position method of root estimation.
 
